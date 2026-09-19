@@ -1,0 +1,357 @@
+{
+  "fetchedAt": "2026-09-19T11:48:11.721Z",
+  "repositories": [
+    {
+      "name": "agenta-test-automation-framework",
+      "url": "https://github.com/sagnik10/agenta-test-automation-framework",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "ai-video-subtitle-translator",
+      "url": "https://github.com/sagnik10/ai-video-subtitle-translator",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Airline-Profitability-Analytics-Pipeline",
+      "url": "https://github.com/sagnik10/Airline-Profitability-Analytics-Pipeline",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "android-appium-network-toggle-tests",
+      "url": "https://github.com/sagnik10/android-appium-network-toggle-tests",
+      "branch": "main",
+      "language": "HTML",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "ashfall-protocol",
+      "url": "https://github.com/sagnik10/ashfall-protocol",
+      "branch": "main",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "AutoFinance-Forecast-Intelligence",
+      "url": "https://github.com/sagnik10/AutoFinance-Forecast-Intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Automated-Educational-PPT-Content-Generator",
+      "url": "https://github.com/sagnik10/Automated-Educational-PPT-Content-Generator",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "automated_music_player",
+      "url": "https://github.com/sagnik10/automated_music_player",
+      "branch": "main",
+      "language": "HTML",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "avocado-market-intelligence",
+      "url": "https://github.com/sagnik10/avocado-market-intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "beijing-air-quality-analysis",
+      "url": "https://github.com/sagnik10/beijing-air-quality-analysis",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "bellabeat-health-analytics-intelligence",
+      "url": "https://github.com/sagnik10/bellabeat-health-analytics-intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "bike-share-membership-conversion-analysis",
+      "url": "https://github.com/sagnik10/bike-share-membership-conversion-analysis",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "blinkit-sales-intelligence",
+      "url": "https://github.com/sagnik10/blinkit-sales-intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Breast-Cancer-Diagnostic-Analytics",
+      "url": "https://github.com/sagnik10/Breast-Cancer-Diagnostic-Analytics",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "cloud-reliability-intelligence",
+      "url": "https://github.com/sagnik10/cloud-reliability-intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "fifa-player-dynamic-analytics",
+      "url": "https://github.com/sagnik10/fifa-player-dynamic-analytics",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "fullstack-devops-platform",
+      "url": "https://github.com/sagnik10/fullstack-devops-platform",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "HantaVirusDataAnalysis",
+      "url": "https://github.com/sagnik10/HantaVirusDataAnalysis",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "hydro-intelligence-analytics",
+      "url": "https://github.com/sagnik10/hydro-intelligence-analytics",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "IndiaDistrictRainfallAnalysis",
+      "url": "https://github.com/sagnik10/IndiaDistrictRainfallAnalysis",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "indic-script-document-translator",
+      "url": "https://github.com/sagnik10/indic-script-document-translator",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "industrial-iot-anomaly-detection-pipeline",
+      "url": "https://github.com/sagnik10/industrial-iot-anomaly-detection-pipeline",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "institutional-book-intelligence-system",
+      "url": "https://github.com/sagnik10/institutional-book-intelligence-system",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "log-anomaly-intelligence-engine",
+      "url": "https://github.com/sagnik10/log-anomaly-intelligence-engine",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "machine-learning-prediction-projects",
+      "url": "https://github.com/sagnik10/machine-learning-prediction-projects",
+      "branch": "main",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "maritime-rl-env",
+      "url": "https://github.com/sagnik10/maritime-rl-env",
+      "branch": "main",
+      "language": "Python",
+      "stars": 2,
+      "fork": false
+    },
+    {
+      "name": "medinsight-analytics-engine",
+      "url": "https://github.com/sagnik10/medinsight-analytics-engine",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "nato-defense-data-analysis-ml",
+      "url": "https://github.com/sagnik10/nato-defense-data-analysis-ml",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "NeuroStreamAI",
+      "url": "https://github.com/sagnik10/NeuroStreamAI",
+      "branch": "main",
+      "language": "Python",
+      "stars": 1,
+      "fork": false
+    },
+    {
+      "name": "PitchworkDataAnalyzer",
+      "url": "https://github.com/sagnik10/PitchworkDataAnalyzer",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "PulmoBench-Analytical-Intelligence",
+      "url": "https://github.com/sagnik10/PulmoBench-Analytical-Intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Python-Automation-Scripts-Collection",
+      "url": "https://github.com/sagnik10/Python-Automation-Scripts-Collection",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "retail-customer-intelligence-engine",
+      "url": "https://github.com/sagnik10/retail-customer-intelligence-engine",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "sagnik-sen-mosquito-detection-ml-scikit-learn",
+      "url": "https://github.com/sagnik10/sagnik-sen-mosquito-detection-ml-scikit-learn",
+      "branch": "main",
+      "language": "Python",
+      "stars": 2,
+      "fork": false
+    },
+    {
+      "name": "sagnik10-earthquake-data-analysis-python-3.9",
+      "url": "https://github.com/sagnik10/sagnik10-earthquake-data-analysis-python-3.9",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "speak-booking-engine",
+      "url": "https://github.com/sagnik10/speak-booking-engine",
+      "branch": "main",
+      "language": "JavaScript",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Stock-Market-Forecasting-ML-Pipeline",
+      "url": "https://github.com/sagnik10/Stock-Market-Forecasting-ML-Pipeline",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "Student_Behaviour_Analysis_And_Projections",
+      "url": "https://github.com/sagnik10/Student_Behaviour_Analysis_And_Projections",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "urban-audio-intelligence",
+      "url": "https://github.com/sagnik10/urban-audio-intelligence",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "vehicle-diminished-value-manager",
+      "url": "https://github.com/sagnik10/vehicle-diminished-value-manager",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "wedding-photo-studio-manager-website",
+      "url": "https://github.com/sagnik10/wedding-photo-studio-manager-website",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "wine-review-analytics",
+      "url": "https://github.com/sagnik10/wine-review-analytics",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "world-happiness-index-advanced-analytics",
+      "url": "https://github.com/sagnik10/world-happiness-index-advanced-analytics",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "x2dhf-scientific-cloud",
+      "url": "https://github.com/sagnik10/x2dhf-scientific-cloud",
+      "branch": "main",
+      "language": "Fortran",
+      "stars": 0,
+      "fork": false
+    }
+  ]
+}
