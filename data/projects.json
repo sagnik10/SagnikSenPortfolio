@@ -61,7 +61,7 @@
     "repo": "hydro-intelligence-analytics",
     "title": "Hydro intelligence",
     "category": "Environment",
-    "description": "Exploratory analysis with principal components, clustering and anomaly detection. Inspect the repository?s saved projection alongside its plotting code.",
+    "description": "Exploratory analysis with principal components, clustering and anomaly detection. Inspect the repository's saved projection alongside its plotting code.",
     "outputPath": "Output/charts/pca_projection.png",
     "codePath": "Analyzer.py",
     "lineStart": 84,

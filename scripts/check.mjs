@@ -20,7 +20,7 @@ for (const [tag] of html.matchAll(/<img\b[^>]*>/g)) {
 for (const [tag] of html.matchAll(/<a\b[^>]*target="_blank"[^>]*>/g)) assert(/rel="[^"]*noopener/.test(tag), 'External tab needs noopener');
 assert.equal((html.match(/<h1>/g) || []).length, 1);
 assert(!/<!-- (GALLERY|STATS|FAQ|SOCIALS|MENU_ICON|SNAPSHOT_DATE) -->/.test(html), 'Unrendered template marker');
-assert(!/LET\?S|photo coming soon|Add a student review|\uFFFD/.test(html), 'Placeholder or encoding error');
+assert(!/LET\?S|repository\?s|photo coming soon|Add a student review|\uFFFD/.test(html), 'Placeholder or encoding error');
 const voids = new Set(['area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr']);
 const stack = [];
 for (const token of html.matchAll(/<!--[^]*?-->|<![^>]*>|<\/?([a-z][\w-]*)\b[^>]*>/gi)) {
