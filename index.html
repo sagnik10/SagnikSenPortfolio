@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
+<div class="scroll-progress" id="scroll-progress" aria-hidden="true"></div>
 <a class="skip-link" href="#top">Skip to content</a>
 
 <header class="nav">
@@ -44,16 +45,16 @@
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <div class="eyebrow-line"><span class="status-dot" aria-hidden="true"></span> SCIENTIST. BUILDER. EDUCATOR.</div>
-        <h1>Turning data into<br><em>understanding.</em><br>One project at a time.</h1>
-        <p class="lede">I'm Sagnik Sen, a Project Scientist at the India Meteorological Department. Outside of that, I teach Python, data science and machine learning online, to students learning at their own pace, in their own time zone.</p>
-        <div class="hero-actions">
+        <div class="eyebrow-line hero-anim" style="--d:0.04s"><span class="status-dot" aria-hidden="true"></span> SCIENTIST. BUILDER. EDUCATOR.</div>
+        <div class="hero-anim" style="--d:0.12s"><h1>Turning data into<br><em>understanding.</em><br>One project at a time.</h1></div>
+        <p class="lede hero-anim" style="--d:0.20s">I'm Sagnik Sen, a Project Scientist at the India Meteorological Department. Outside of that, I teach Python, data science and machine learning online, to students learning at their own pace, in their own time zone.</p>
+        <div class="hero-actions hero-anim" style="--d:0.28s">
           <a class="btn btn-primary" href="#projects">Explore my work <span aria-hidden="true">&nearr;</span></a>
           <a class="btn btn-ghost" href="#contact">Learn with me <span aria-hidden="true">&rarr;</span></a>
         </div>
       </div>
 
-      <figure class="photo-frame">
+      <figure class="photo-frame hero-anim" style="--d:0.22s">
         <img src="assets/images/sagnik-sen.jpeg" alt="Sagnik Sen at the Lotus Temple in New Delhi" width="1204" height="1599" fetchpriority="high">
         <figcaption><span>Sagnik Sen</span><small>Project Scientist &amp; Python Educator</small></figcaption>
       </figure>
