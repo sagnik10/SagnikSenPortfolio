@@ -19,3 +19,22 @@
 @media(max-width:640px){.wrap{padding-inline:22px}section{padding:60px 0}.nav-row{padding:14px 22px;gap:10px}.nav-name{font-size:.9375rem}.brand-mark{width:32px;height:32px;font-size:1.4rem}.nav-cta{padding:8px 12px}.hero{padding-top:40px}.hero-grid,.section-heading,.about-grid,.faq-layout,.contact-grid{grid-template-columns:1fr;gap:32px}.hero h1{font-size:clamp(2.7rem,10.5vw,3.6rem)}.lede{font-size:1rem}.photo-frame{width:78%;max-width:340px;margin:0 auto 15px;aspect-ratio:4/4.4;border-radius:100px 100px 16px 16px}.stats-grid{margin-top:34px;padding:22px 0;row-gap:20px;grid-template-columns:repeat(2,1fr)}.stat{padding:0 18px}.stat:nth-child(odd){border-left:0}.stat:nth-child(even){border-left:1px solid var(--line)}.stat strong{font-size:2rem}.stat small{font-size:.6875rem}.snapshot-note{text-align:left;line-height:1.8}.project-gallery{grid-template-columns:1fr;gap:22px}.project-body>p{min-height:0}.section-heading p{max-width:none}.gallery-toolbar{margin-top:26px}.filters button{padding:8px 10px}.project-image{padding:12px}.teach-cols{grid-template-columns:1fr}.col{padding:22px}.col:before{margin-bottom:12px}.reach-strip{grid-template-columns:repeat(2,1fr)}.reach-card{padding:17px}.smart-grid{grid-template-columns:repeat(2,1fr)}.steps{grid-template-columns:1fr;gap:22px}.step{display:grid;grid-template-columns:35px 1fr;gap:10px}.n{margin:0}.footer-grid{grid-template-columns:1fr 1fr;gap:25px}.footer-brand{grid-column:1/-1}.social-row{gap:8px}.social-btn{padding:12px}.eyebrow-line{font-size:.6875rem;letter-spacing:.055em}.section-label{font-size:.6875rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
 @media print{.nav,.gallery-toolbar,.copy-button,.hero-actions{display:none!important}body,section{background:white!important}.project-card{break-inside:avoid}a{color:black}.wrap{max-width:none}.project-gallery{grid-template-columns:1fr 1fr}}
+
+/* 8. Live demos & ecosystem strip */
+.ecosystem-block{margin-top:54px;padding-top:40px;border-top:1px solid var(--line)}
+.ecosystem-head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:22px}
+.ecosystem-head .section-label{margin-bottom:8px}
+.ecosystem-head h3{font-family:'Newsreader',Georgia,serif;font-size:clamp(1.45rem,2.4vw,1.9rem);font-weight:500;letter-spacing:-.025em}
+.ecosystem-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.ecosystem-card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:10px;box-shadow:0 6px 20px #213f7008;transition:transform .2s,border-color .2s,box-shadow .2s}
+.ecosystem-card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:var(--shadow)}
+.eco-tag{align-self:flex-start;font:500 .7rem/1 'IBM Plex Mono',monospace;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);background:var(--tint);padding:6px 10px;border-radius:999px}
+.ecosystem-card h4{margin:0;font-size:1.05rem;font-weight:600;color:var(--ink)}
+.ecosystem-card p{font-size:.875rem;line-height:1.55;margin-bottom:auto}
+.ecosystem-card .text-link{display:inline-flex;align-items:center;gap:6px;font-size:.875rem;margin-top:6px;text-decoration:none}
+.ecosystem-card .text-link:hover{text-decoration:underline}
+.status-dot{animation:status-pulse 2.4s ease-in-out infinite}
+@keyframes status-pulse{0%,100%{box-shadow:0 0 0 4px #25806618}50%{box-shadow:0 0 0 8px #25806608}}
+@media(max-width:1050px){.ecosystem-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.ecosystem-grid{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.status-dot{animation:none!important}}

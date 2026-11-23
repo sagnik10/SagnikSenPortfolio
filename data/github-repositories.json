@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T11:48:11.721Z",
+  "fetchedAt": "2026-11-23T06:30:44.799Z",
   "repositories": [
     {
       "name": "agenta-test-automation-framework",
@@ -118,6 +118,14 @@
       "url": "https://github.com/sagnik10/cloud-reliability-intelligence",
       "branch": "main",
       "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "DaisyRec-SimpleX-Recommendation-Benchmark",
+      "url": "https://github.com/sagnik10/DaisyRec-SimpleX-Recommendation-Benchmark",
+      "branch": "main",
+      "language": "Jupyter Notebook",
       "stars": 0,
       "fork": false
     },
@@ -266,6 +274,14 @@
       "fork": false
     },
     {
+      "name": "sagnik-sen-antigravity-plugin",
+      "url": "https://github.com/sagnik10/sagnik-sen-antigravity-plugin",
+      "branch": "main",
+      "language": null,
+      "stars": 0,
+      "fork": false
+    },
+    {
       "name": "sagnik-sen-mosquito-detection-ml-scikit-learn",
       "url": "https://github.com/sagnik10/sagnik-sen-mosquito-detection-ml-scikit-learn",
       "branch": "main",
@@ -274,8 +290,32 @@
       "fork": false
     },
     {
+      "name": "sagnik10",
+      "url": "https://github.com/sagnik10/sagnik10",
+      "branch": "main",
+      "language": null,
+      "stars": 0,
+      "fork": false
+    },
+    {
       "name": "sagnik10-earthquake-data-analysis-python-3.9",
       "url": "https://github.com/sagnik10/sagnik10-earthquake-data-analysis-python-3.9",
+      "branch": "main",
+      "language": "Python",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "SagnikSenPortfolio",
+      "url": "https://github.com/sagnik10/SagnikSenPortfolio",
+      "branch": "main",
+      "language": "HTML",
+      "stars": 0,
+      "fork": false
+    },
+    {
+      "name": "sentinel-dlp-gateway",
+      "url": "https://github.com/sagnik10/sentinel-dlp-gateway",
       "branch": "main",
       "language": "Python",
       "stars": 0,
